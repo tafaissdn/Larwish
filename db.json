@@ -1,7 +1,15 @@
 {
   
-  "a": "الجديد عند خياط العشاق",
-"b": "جميع الموديلا نساء - رجال",
+    
+  "disponible": "متوفر الان",
+  "jdid": "الجديد عند خياط العشاق",
+"model": "جميع الموديلا نساء - رجال",
+  
+ "op": [
+   {
+     "urlimg": "https://g.top4top.io/p_2613xa0s01.jpg",
+     "arrayimg":["https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
+     
 
   "open": [
     
@@ -55,6 +63,8 @@
               "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg"
 
       }
+]
+}
       ]
       }
     
