@@ -1,75 +1,19 @@
 {
-  
-    
-  "disponible": "متوفر الان",
-  "jdid": "الجديد عند خياط العشاق",
-"model": "جميع الموديلا نساء - رجال",
- 
-  "open": [
-    
-    {
-       "imageurl": "https://g.top4top.io/p_2613xa0s01.jpg",
-       "title": " التكشيتة ",   
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-      "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-      "store" : "https://g.top4top.io/p_2613xa0s01.jpg",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"]
-      
-       
-    },
-    {
-       "imageurl": "https://h.top4top.io/p_2613uzjk47.jpg",
-      "title":  "كًًندورة",
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-            "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-            "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
-      
-      },
-      {
-         "imageurl": "https://h.top4top.io/p_26137wvjs2.jpg",
-      "title":  "القفطان",
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-              "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-        "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
 
-        },
-      {
-         "imageurl": "https://g.top4top.io/p_2613014225.jpg",
-      "title":  "جلابة النساء",
-      "images":["https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-              "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-        "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
-        },
-      {
-         "imageurl": "https://f.top4top.io/p_261381qh73.png",
-      "title":  "الجبادور  النساء",
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-              "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-        "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
-          },
-      {
-         "imageurl": "https://l.top4top.io/p_26135cwzt1.jpg",
-      "title":  "جلابة رجال",
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-              "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-        "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
-        },
-      {
-         "imageurl": "https://e.top4top.io/p_2613el0mk2.jpg",
-      "title":  "جبادور رجال",
-      "images":[ "https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"],
-              "viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg",
-        "store" : "",
-      "arrstore" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
+"modelatgrid" :[{
 
-      }
+"url" : "https://g.top4top.io/p_2613xa0s01.jpg",
+"title" : "text",
+"arrurl" : ["https://g.top4top.io/p_2613xa0s01.jpg"]
+}],
+"storyview" :[{
+"viewUrl" : "https://g.top4top.io/p_2613xa0s01.jpg"
+}],
+"disponible" : [{
+"logo": "https://g.top4top.io/p_2613xa0s01.jpg",
+"arr":["https://g.top4top.io/p_2613xa0s01.jpg"]
+
+
+}
 ]
 }
-
-
-    
