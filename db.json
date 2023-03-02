@@ -2,10 +2,10 @@
 
 "logoApp": "https://i.ibb.co/sgpD5fB/loggo.jpg",
 "usernameApp": "خياط العشاق",
-"titleApp": "خياطة تقليدية خياطية عصرية",
-"titleStory": "كيف ديما الجديد مع خياط العشاق",
-"titleDisponible": "متوفر حاليا(جديد)",
-"titleModel": "جميع انواع الموديلات هنا:",
+"titleApp": "خياطة تقليدية _  خياطية عصرية",
+"titleStory": " الجديد مع خياط العشاق",
+"titleDisponible": "متوفر حاليا",
+"titleModel": "موديلات عصرية مغرببة اصيلة بكل انوعها:",
 
 "modelatgrid" :[{
 
@@ -52,7 +52,7 @@
 }],
 "disponible" : [{
 "logo": "https://g.top4top.io/p_2613xa0s01.jpg",
-"arrlogo":["https://g.top4top.io/p_2613xa0s01.jpg"]
+"arrlogo":["https://g.top4top.io/p_2613xa0s01.jpg","https://g.top4top.io/p_2613xa0s01.jpg"]
 
 
 }
