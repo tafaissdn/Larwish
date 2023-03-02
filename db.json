@@ -4,7 +4,7 @@
 "usernameApp": "خياط العشاق",
 "titleApp": "خياطة تقليدية _  خياطية عصرية",
 "titleStory": " الجديد مع خياط العشاق",
-"titleDisponible": "",
+"titleDisponible": "ترقبو الجديد",
 "titleModel": "موديلات عصرية مغرببة اصيلة بكل انوعها:",
 
 "modelatgrid" :[{
@@ -79,8 +79,8 @@
                 
 }],
 "disponible" : [{
-"logo": "",
-"arrlogo":[""]
+"logo": "https://i.ibb.co/7KJgFTf/image.jpg",
+"arrlogo":["https://i.ibb.co/7KJgFTf/image.jpg"]
 
 
 }
